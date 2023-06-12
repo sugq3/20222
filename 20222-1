@@ -1,0 +1,3 @@
+AC_INIT([Bitcoin]...
+: ${CFLAGS="-g -ggdb"}
+: ${CXXFLAGS="-g -ggdb"}
